@@ -7,7 +7,7 @@ This is a simple **Rock Paper Scissors** game developed in C++. The game follows
 ✔ **Separation of Concerns (SoC)** – Organized into multiple functions for **Game Logic, User Interaction, and AI**.  
 ✔ **User Input Handling** – Validates user input to ensure a smooth gameplay experience.  
 ✔ **Console-Based UI** – A simple, lightweight, and efficient C++ application.  
-✔ **AI Opponent** – Uses `cstdlib` and `ctime` for random AI moves.  
+✔ **AI Opponent** – Uses `cstdlib` for random AI moves.  
 
 ## 🛠️ Tech Stack
 🔹 **Language:** C++  
