@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yousef\\Documents\\GitHub\\Rock_Paper_Scissors\\Game_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D308BC36-1855-41F7-A147-F66D8ED66393}|Game_ConsoleApp.vcxproj|C:\\Users\\Yousef\\Documents\\GitHub\\Rock_Paper_Scissors\\Game_ConsoleApp\\Game_ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D308BC36-1855-41F7-A147-F66D8ED66393}|Game_ConsoleApp.vcxproj|solutionrelative:Game_ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_ConsoleApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\Rock_Paper_Scissors\\Game_ConsoleApp\\Game_ConsoleApp.cpp",
+              "RelativeDocumentMoniker": "Game_ConsoleApp.cpp",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\Rock_Paper_Scissors\\Game_ConsoleApp\\Game_ConsoleApp.cpp",
+              "RelativeToolTip": "Game_ConsoleApp.cpp",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAswPsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T22:55:39.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
