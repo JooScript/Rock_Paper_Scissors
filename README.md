@@ -12,7 +12,7 @@ This is a simple **Rock Paper Scissors** game developed in C++. The game follows
 ## 🛠️ Tech Stack
 🔹 **Language:** C++  
 🔹 **Architecture:** Separation of Concerns (Game Logic, Input Handling, Display)  
-🔹 **Randomization:** `cstdlib` and `ctime` for AI decision-making  
+🔹 **Randomization:** `cstdlib` for AI decision-making  
 
 ## 🎯 How It Works
 1. **Player selects**: Rock, Paper, or Scissors.
@@ -26,7 +26,7 @@ This is a simple **Rock Paper Scissors** game developed in C++. The game follows
 ## 🔧 Installation & Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Yousef-Refat/Rock_Paper_Scissors.git
+   git clone https://github.com/JooScript/Rock_Paper_Scissors.git
    ```
 2. **Navigate to the project directory**:
    ```bash
